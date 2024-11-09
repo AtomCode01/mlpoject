@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+-e .
+# this line will connect to setup.py
